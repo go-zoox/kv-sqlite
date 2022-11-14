@@ -1,4 +1,4 @@
-package sqlite
+package kvsqlite
 
 import (
 	"database/sql"
