@@ -1,4 +1,4 @@
 package kvsqlite
 
 // Version is the current version of the package.
-var Version = "0.0.0"
+var Version = "1.0.0"
